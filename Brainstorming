@@ -20,3 +20,9 @@ Ideas
 - Seven segment display
 - Serial display
 
+SqRt(Ver.1)
+- A serial screen for seeing input binary number
+- Left and Right directional buttons for traversing binary number
+- 1/0 button to change selected number to opposite number (0 -> 1 & 1 -> 0)
+- Alt button to display the binary number as a decimal number
+- Sub button to start calculating square root of the number currently inputted
