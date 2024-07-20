@@ -1,0 +1,21 @@
+Rough brainstorming:
+
+Goal
+- Satisfy this definition of a computer.
+   - An electric device that can preform instructions via memory and data manipulation for input-output purposes.
+- Find the square root of a number.
+
+Ways of Finding a square root
+- long division
+- prime factorization
+- repeated subtraction (only works for perfect squares)
+- https://en.wikipedia.org/wiki/Methods_of_computing_square_roots
+- https://en.wikipedia.org/wiki/Methods_of_computing_square_roots#Iterative_methods_for_reciprocal_square_roots
+
+Ideas
+- Include floating point?
+- User input
+   - Directional Buttons?
+   - Select Button
+- Seven segment display
+- Serial display
